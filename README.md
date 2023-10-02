@@ -1,2 +1,2 @@
-# DuNCAN_issues
-To record bugs on DuNCAN
+# DUnCAN_issues
+To record bugs on DUnCAN
